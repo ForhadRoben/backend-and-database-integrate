@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type="text"],
+textarea {
+
+    background-color: #FFFFFF;
+
+}
+
+input::placeholder {
+    color: #331A15;
+}
